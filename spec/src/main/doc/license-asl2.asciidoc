@@ -1,10 +1,10 @@
 ....
 
-Specification: JSR-346 Contexts and Dependency Injection for the Java EE platform (CDI) ("Specification")
+Specification: JSR-365 Contexts and Dependency Injection for the Java platform (CDI) ("Specification")
 
-Version:  1.2
+Version:  2.0
 
-Status: Maintenance Release
+Status: SNAPSHOT
 
 Specification Lead:  Red Hat, Inc. ("Specification Lead")
 

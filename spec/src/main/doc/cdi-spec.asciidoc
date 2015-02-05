@@ -1,14 +1,18 @@
+= Contexts and Dependency Injection for the Java platform
 :sectanchors:
 :doctype: book
 :toc: left
 :toclevels: 3
 :source-highlighter: highlightjs
 :compat-mode:
-= Contexts and Dependency Injection for the Java EE platform
 
+[preface]
 include::preface.asciidoc[]
 
 include::architecture.asciidoc[]
+
+[[part_1]]
+= Part I - CDI in Java SE
 
 include::definition.asciidoc[]
 
@@ -31,3 +35,5 @@ include::events.asciidoc[]
 include::spi.asciidoc[]
 
 include::packagingdeployment.asciidoc[]
+
+include::javaee/javaeeintegration.asciidoc[]
